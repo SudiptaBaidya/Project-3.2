@@ -92,6 +92,11 @@ output;
 tock,
 output;
 
+
+
+
+
+
 set in 0,
 set reset 0,
 set load 1,
