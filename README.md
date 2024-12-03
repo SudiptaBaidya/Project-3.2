@@ -11,4 +11,4 @@
 
 ## PC
 
-<img src="RAM16k SS.png"/>
+<img src="./PCss.png"/>
