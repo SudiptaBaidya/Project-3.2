@@ -10,4 +10,4 @@
 <img src="RAM16k SS.png">
 
 ## PC
-<img src="PC ss.png">
+<img src="./PCss.png">
